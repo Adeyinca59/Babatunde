@@ -7,19 +7,19 @@ Equipped with hands-on experience in SQL,Google spreadsheet and BI tools like  P
 
 Core Competencies:
 
-Data Cleaning & Preparation
+- Data Cleaning & Preparation
 
-Data Visualization & Storytelling
+- Data Visualization & Storytelling
 
-SQL & Relational Databases
+- SQL & Relational Databases
 
-Google spreadsheet (Pivot Tables, VLOOKUP, )
+- Google spreadsheet (Pivot Tables, VLOOKUP, )
 
-Business Intelligence (Power BI)
+- Business Intelligence (Power BI)
 
-Statistical Analysis & Hypothesis Testing
+- Statistical Analysis & Hypothesis Testing
 
-Predictive Modeling (Regression, Classification)
+- Predictive Modeling (Regression, Classification)
 
-Data-Driven Decision Making
+- Data-Driven Decision Making
 
